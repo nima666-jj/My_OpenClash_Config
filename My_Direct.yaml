@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,evatmaster.com
   - DOMAIN-SUFFIX,xiyouzhaoci.com
+  - DST-PORT,9993,DIRECT
