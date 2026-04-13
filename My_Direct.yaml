@@ -5,5 +5,7 @@ payload:
   - DOMAIN-SUFFIX,bygcloud.com
   - DOMAIN-SUFFIX,sibker.com
   - DOMAIN-SUFFIX,nextsls.com
-  - GEOSITE,tailscale
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,ts.net
   
