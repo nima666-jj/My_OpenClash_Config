@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,AweSun.exe,DIRECT
   - DOMAIN-SUFFIX,evatmaster.com
   - DOMAIN-SUFFIX,xiyouzhaoci.com
   - DOMAIN-SUFFIX,xydc.com
